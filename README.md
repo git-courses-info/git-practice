@@ -10,3 +10,4 @@ and I will start commiting changes in each cloned project, after I change the pe
 Note: The maintainer of this repo is going to be `footios` and `fotiostsakirs` will be the collaborator.
 
 - (fotistsakiris) OK, may I please have my first assignment?
+- (footios) I created `App.js`, `Auth.js` and `Home.js` your assingment is to create a new branch called feature/home where you implement `Home.js` according to instructions. Success!
