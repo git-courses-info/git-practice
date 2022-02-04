@@ -8,3 +8,5 @@ and I will start commiting changes in each cloned project, after I change the pe
 **Let the game begin!**
 
 Note: The maintainer of this repo is going to be `footios` and `fotiostsakirs` will be the collaborator.
+
+- (fotistsakiris) OK, may I please have my first assignment?
