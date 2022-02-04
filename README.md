@@ -11,4 +11,4 @@ Note: The maintainer of this repo is going to be `footios` and `fotiostsakirs` w
 
 - (fotistsakiris) OK, may I please have my first assignment?
 - (footios) I created `App.js`, `Auth.js` and `Home.js` your assingment is to create a new branch called `feature/home` where you implement `Home.js` according to instructions. Success!
-- (fotistsakiris) Thanks! I made a basic implementation and then I `git push -u feature/home`.
+- (fotistsakiris) Thanks! I made a basic implementation and then I `git push -u origin feature/home`.
