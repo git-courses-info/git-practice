@@ -8,6 +8,8 @@ In order to achive this, i.e. play the roll for two different devs, I cloned the
 
 Note: The maintainer of this repo is going to be `footios` and `fotiostsakirs` will be the collaborator.
 
+1.
+
 - (fotistsakiris) OK, may I please have my first assignment?
 - (footios) I created `App.js`, `Auth.js` and `Home.js` your assingment is to create a new branch called `feature/home` where you implement `Home.js` according to instructions. Success!
 - (fotistsakiris) Thanks! I created a new branch: `git switch -C featur/home`.\
@@ -15,7 +17,9 @@ Note: The maintainer of this repo is going to be `footios` and `fotiostsakirs` w
    The rest of the dialog went on in the pull request with name `Feature/home`, that can be found in fotistsakiris account.
 - (footios) Nice! So we made our first simple colaboration. Now I will delete the remote branch `feature/home` and we both should delete it from our local repos.\
   Notes:
-  - To see all branches (local and remote): `git branch -a`.
+  - To see all branches (local and remote): `git branch -a`. See only remote: `git branch -r`
   - To delete local branches: `git branch -d feature/home`. If it wasn't merged: `git branch -D feature/home`.
   - To delete remote branches: `git push origin --delete feature/home`.
   - Remove tracking branches that are deleted on the remote repo: `git remote prune origin`, or `git fetch --prune`.
+
+2. (footios) Now fotistsakiris should implement `Auth.js` too. Note: repeate the above steps.
