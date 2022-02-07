@@ -1,5 +1,9 @@
 import React from "react";
 
 export default function Auth() {
-  return <div>Auth</div>;
+  return (
+    <div>
+      <p>Auth UI</p>
+    </div>
+  );
 }
