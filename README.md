@@ -26,3 +26,5 @@ Note: The maintainer of this repo is going to be `footios` and `fotiostsakirs` w
 
 - (footios) Now fotistsakiris should implement `Auth.js` too. Note: repeate the above steps.
 - (fotistsakiris) I created `feature/auth` branch, implemeted the UI for `Auth.js`, commited the changes, pushed the new branch.
+- (footios) This time I will make some changes. So: `git fetch` to get the new branch and `git switch -C feature/auth origin/feature/auth`\
+  to create a local branch and map it to the remote one.

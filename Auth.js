@@ -5,6 +5,7 @@ export default function Auth() {
     <div>
       <p>Auth UI</p>
       <p>Auth implementation</p>
+      <p>Improve auth..</p>
     </div>
   );
 }
