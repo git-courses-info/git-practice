@@ -31,5 +31,8 @@ Note: The maintainer of this repo is going to be `footios` and `fotiostsakirs` w
 
 3. Resolve conflicts
 
-- (fotistsakiris) - Create a new branch: `git switch -C feature/login`. Implement login feature. Push to `git push -u origin feature/login`.\
-  Then for siplicity, switch to master and make a change.
+- (fotistsakiris) - I created a new branch: `git switch -C feature/login`. Then implemented login feature. Pushed to `git push -u origin feature/login`.\
+  Then for siplicity, switched to master and make a change. Then pushed master. Now we have a conflict and we cannot have a ff merge. Conflicts mast be resolved.\
+  Then I opend a pull request and requested review from footios.\
+  Now the one that is responsible for merging this branch must resolve the conflicts. He can use the command line, or the user interface. The process is the same as resolving conflicts in local branches. First ofcourse you pull and then start the merge. Resolve conflict, add commit, push to github. But this time we're going to resolve the conflicts on github.\
+  Then did the usual steps to delete the branches.
