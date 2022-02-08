@@ -8,7 +8,7 @@ In order to achive this, i.e. play the roll for two different devs, I cloned the
 
 Note: The maintainer of this repo is going to be `footios` and `fotiostsakirs` will be the collaborator.
 
-1.
+1. Collaboration
 
 - (fotistsakiris) OK, may I please have my first assignment?
 - (footios) I created `App.js`, `Auth.js` and `Home.js` your assingment is to create a new branch called `feature/home` where you implement `Home.js` according to instructions. Success!
@@ -22,9 +22,14 @@ Note: The maintainer of this repo is going to be `footios` and `fotiostsakirs` w
   - To delete remote branches: `git push origin --delete feature/home`.
   - Remove tracking branches that are deleted on the remote repo: `git remote prune origin`, or `git fetch --prune`.
 
-2.
+2. Pull requests
 
 - (footios) Now fotistsakiris should implement `Auth.js` too. Note: repeate the above steps.
 - (fotistsakiris) I created `feature/auth` branch, implemeted the UI for `Auth.js`, commited the changes, pushed the new branch.
 - (footios) This time I will make some changes. So: `git fetch` to get the new branch and `git switch -C feature/auth origin/feature/auth`\
   to create a local branch and map it to the remote one.
+
+3. Resolve conflicts
+
+- (fotistsakiris) - Create a new branch: `git switch -C feature/login`. Implement login feature. Push to `git push -u origin feature/login`.\
+  Then for siplicity, switch to master and make a change.
