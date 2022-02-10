@@ -36,3 +36,9 @@ Note: The maintainer of this repo is going to be `footios` and `fotiostsakirs` w
   Then I opend a pull request and requested review from footios.\
   Now the one that is responsible for merging this branch must resolve the conflicts. He can use the command line, or the user interface. The process is the same as resolving conflicts in local branches. First ofcourse you pull and then start the merge. Resolve conflict, add commit, push to github. But this time we're going to resolve the conflicts on github.\
   Then did the usual steps to delete the branches.
+
+4. Revert commits
+
+5. drop commit
+
+update readme
